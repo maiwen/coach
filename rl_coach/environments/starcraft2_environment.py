@@ -14,10 +14,8 @@
 # limitations under the License.
 #
 
-
 from enum import Enum
 from typing import Union, List
-
 import numpy as np
 
 from rl_coach.filters.observation.observation_move_axis_filter import ObservationMoveAxisFilter
